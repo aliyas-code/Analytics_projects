@@ -1,6 +1,6 @@
 
 /*
-Cleaning Data in SQL Queries
+Cleaning Data in SQL Queries (PostgreSQL)
 */
 -- delete from houses where uniqueid != '01'
 
