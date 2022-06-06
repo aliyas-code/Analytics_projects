@@ -1,3 +1,5 @@
+--Some SQL queries for Analysis (PostgreSQL)
+
 select location, date, total_cases, new_cases, total_deaths, population from coviddeaths order by 1, 2
 
 --Looking at Total Cases vs Total Deaths
