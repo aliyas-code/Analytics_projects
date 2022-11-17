@@ -2,8 +2,8 @@
 Description
 
 (ENG)
-The visitors of the Internet site who visited it through advertising were investigated. Information about more than 1000 visits were 
-extracted using the Yandex Logs API. Data contains:
+The visitors of the Internet site who visited it through advertising were investigated. This advertisement worked quite badly, not a single targeted action was achived. So it was decided to make  an analysis of site users who went through ads to the site to detect problems and gain knowledge about the audience for further reconfiguration of ads.
+Information about more than 1000 visits were extracted using the Yandex Logs API. Data contains:
 -        visitID;
 -        isNewUser;
 -        clientID;
@@ -26,7 +26,9 @@ extracted using the Yandex Logs API. Data contains:
 =====================================================================================================
 
 (RUS)
-Исследуются посетители Интернет-сайта, перешедшие на него по рекламе. Была получена информация о более 1000 визитов. Информация о визитах была получена с помощью Yandex Logs API . Информация содержит данные: 
+
+Исследуются посетители сайта, перешедшие на него по рекламе. Данная реклама сработала достаточно плохо, не было выполнено ни одного целевого действия. Так что было решено провести анализ пользователей сайта, перешедших по рекламе, для обнаружения проблем и получения знаний об аудитории для дальнейшей перенастройке рекламы. 
+Была получена информация о более 1000 визитов. Информация о визитах была получена с помощью Yandex Logs API. Информация содержит данные: 
 -        visitID (Идентификатор визита);
 -        isNewUser (Первый ли визит посетителя);
 -        clientID (Идентификатор клиента);
